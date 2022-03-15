@@ -1,0 +1,316 @@
+header ul li {
+    list-style: none;
+    display: flex;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+header .menu{
+    justify-content: space-around;
+    margin-top: 15px;
+}
+
+.title1 {
+    display: flex;
+    justify-content: left;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 20px;
+    margin-left: 5%;
+}
+
+.title2 {
+    justify-content: right;
+    margin-left: 50px;
+    color: grey;
+}
+
+.boton {
+    color: white;
+}
+
+.Vaccines {
+    margin-top: 5%;
+    margin-left: 7%;
+    width: 400px;
+    height: 300px;
+}
+
+.Vaccines h1 {
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 30px;
+    color: #293168;
+}
+
+.Vaccines h2 {
+    font-size: 20px;
+    color:grey;
+}
+
+.Vaccines h3 {
+    font-size: 15px;
+    color: grey;
+}
+
+.Vaccines .icon {
+    color: yellow;
+}
+
+.Vaccines .imagen {
+    display: flex !important;
+    justify-content: space-between !important;
+    width: 600px !important;
+    height:  450px;
+    margin-left: 18%;
+    background-color: blue;
+}
+
+.Vaccines .todo {
+    display: flex;
+    width: 1200px;
+    height: 400px;
+}
+
+.foto {
+    margin-top: 20px;
+    display: flex;
+    width: 500px;
+    height: 400px;
+}
+
+.informacion {
+    margin-top: 10%;
+}
+
+.cita {
+    margin-left: 7%;
+    color: #293168;
+}
+
+.icon2 {
+    color: blue;
+}
+
+.location {
+    margin-left: 9%;
+    width: 500px;
+    background-color: #F5F5F5;
+    justify-content: center;
+}
+
+.boton {
+    background-color: blue;
+}
+
+.secondpart {
+    margin-left: 9%;
+    width: 400px;
+}
+
+.secondpart h1 {
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 30px;
+    color: #293168;
+}
+
+.secondpart h2 {
+    font-size: 20px;
+    color:grey;
+}
+
+.iconosgroup {
+    width: 40px;
+    height: 40px;
+    color: blue;
+    background-color: #D7F0F5;
+}
+
+.group {
+    margin-left: 7%;
+}
+
+.titulo {
+    color:#293168;
+    font-size: 17px;
+}
+
+.divs {
+    background-color: #FCFCFC;
+    width: 120px;
+}
+
+.Imagen2 {
+    display: flex;
+    justify-content: center;
+}
+
+.preparations {
+    width: 500px;
+    height: 200px;
+    margin-left: 60%;
+}
+
+.imagen3 {
+    width: 440px;
+    height: 420px;
+}
+
+.fondo {
+    width: 500px;
+    height: 400px;
+}
+
+.preparationsInfo {
+    width: 1300px;
+    height: 400px;
+    margin-left: 0px;
+}
+
+.letter {
+    color: #293168;
+    font-family: 'Archivo Black', sans-serif;
+}
+
+.Emergency {
+    margin-left: 5%;
+    width: 500px;
+    height: 430px;
+    color:#293168;
+}
+
+.Emergency h2 {
+    font-size: 20px;
+    color: grey;
+}
+
+.icon3 {
+    color:#293168;
+    width: 35px;
+    height: 35px;
+    background-color: #D7F0F5;
+}
+
+.info {
+    position: absolute;
+    left: 10%;
+    top: 370%;
+}
+
+.letters {
+    color: #293168;
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 25px;
+}
+
+.buton {
+    width: 200px;
+    height: 40px;
+    color:#293168;
+    background-color: #FCFCFC;
+}
+
+.buton2 {
+    width: 150px;
+    height: 40px;
+    color: white;
+    background-color:#293168;
+}
+
+.info2 {
+    position: absolute;
+    left: 30%;
+    top: 370%;
+}
+
+.info3 {
+    position: absolute;
+    left: 10%;
+    top: 400%;
+}
+
+.info4 {
+    position: absolute;
+    left: 30%;
+    top: 400%;
+}
+
+.coloreado {
+    position: absolute;
+    left: 60%;
+    top: 350%;
+    width: 500px;
+    height: 400px;
+    background-color: blue;
+}
+
+.imagen4 {
+    position: absolute;
+    top: 4%;
+    left: 5%;
+    width: 440px;
+    height: 370px;
+}
+
+.final {
+    width: 1400px;
+    height: 300px;
+    background-color:whitesmoke;
+}
+
+.Vaccination {
+    height: 100px;
+    width: 250px;
+    position: absolute;
+    top: 450%;
+    left: 5%;
+}
+
+.About {
+    height: 100px;
+    width: 200px;
+    position: absolute;
+    top: 450%;
+    left: 55%;
+}
+
+.Company {
+    height: 100px;
+    width: 200px;
+    position: absolute;
+    top: 450%;
+    left: 70%;
+}
+
+.Support {
+    height: 100px;
+    width: 200px;
+    position: absolute;
+    top: 450%;
+    left: 85%;
+}
+
+.Finalletters {
+    color: #293168;
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 25px;
+}
+
+.finalletter1 {
+    position: absolute;
+    top: 480%;
+    left: 5%;
+    color: grey;
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 10px;
+}
+
+.finalletter2 {
+    position: absolute;
+    top: 480%;
+    left: 75%;
+    color: grey;
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 10px;
+}
